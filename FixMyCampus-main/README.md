@@ -460,3 +460,15 @@ The permission system ensures:
 - ✅ Industry-standard process
 
 **System works like real helpdesk platforms! 🎉**
+## 👨‍💻 Authors
+
+**Amizhthan A** — Early-Stage Java Developer & Tech Explorer
+[LinkedIn](https://www.linkedin.com/in/amizhthan-a-0083a1319) 
+[GitHub](https://github.com/Amizhthan404)
+
+**Anbarasou D** — Aspiring Python Developer & CSE Student
+[LinkedIn](https://www.linkedin.com/in/anbarasou/)
+[GitHub](https://github.com/Anbarasou)
+
+**Dhanush T** — Aspiring UI/UX Designer & Software Developer
+[LinkedIn](https://www.linkedin.com/in/dhanush-t-109242350/)
